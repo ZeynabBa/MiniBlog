@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+        <!-- Thème de l'application -->
+        <style name="Theme.SimpleBlog" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+            <!-- Couleurs -->
+            <item name="colorPrimary">@color/primaire</item>
+            <item name="colorSecondary">@color/secondaire</item>
+            <item name="colorTertiary">@color/terciaire</item>
+        </style>
+</resources>

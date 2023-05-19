@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Couleurs -->
+    <color name="primaire">#000000</color>
+    <color name="secondaire">#EFEDED</color>
+    <color name="terciaire">#FFFFFF</color>
+</resources>
